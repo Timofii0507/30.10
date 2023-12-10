@@ -1,16 +1,18 @@
 #include "../Func/func.h"
 
-int cube(int number) {
+int cube(int number) 
+{
     return number * number * number;
 }
 
-int main() {
+int main() 
+{
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     int num;
-    cout << "Ââåä³òü ÷èñëî: ";
+    cout << "Ã‚Ã¢Ã¥Ã¤Â³Ã²Ã¼ Ã·Ã¨Ã±Ã«Ã®: ";
     cin >> num;
     int result = cube(num);
-    cout << "Êóá ÷èñëà " << num << " äîğ³âíşº " << result << endl;
+    cout << "ÃŠÃ³Ã¡ Ã·Ã¨Ã±Ã«Ã  " << num << " Ã¤Ã®Ã°Â³Ã¢Ã­Ã¾Âº " << result << endl;
     return 0;
 }
