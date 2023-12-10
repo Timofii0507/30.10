@@ -21,3 +21,7 @@ int findMax()
 {
 
 }
+bool isPositive()
+{
+
+}

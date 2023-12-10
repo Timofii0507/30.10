@@ -9,4 +9,5 @@ unsigned long long factorial();
 bool isPrime();
 int cube();
 int findMax();
+bool isPositive();
 
