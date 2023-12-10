@@ -13,3 +13,7 @@ bool isPrime()
 {
 
 }
+int cube()
+{
+
+}
