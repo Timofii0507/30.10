@@ -10,4 +10,5 @@ bool isPrime();
 int cube();
 int findMax();
 bool isPositive();
+double power();
 

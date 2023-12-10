@@ -25,3 +25,7 @@ bool isPositive()
 {
 
 }
+double power()
+{
+
+}
