@@ -12,4 +12,6 @@ int findMax();
 bool isPositive();
 double power();
 int sumInRange();
+bool isPerfectNumber();
+void findPerfectNumbers();
 

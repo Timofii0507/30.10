@@ -33,3 +33,11 @@ int sumInRange()
 {
 
 }
+bool isPerfectNumber()
+{
+
+}
+void findPerfectNumbers()
+{
+
+}
