@@ -21,6 +21,7 @@
   <ItemGroup>
     <ClCompile Include="Func\func.cpp" />
     <ClCompile Include="Main\lab.cpp" />
+    <ClCompile Include="Main\lab2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Func\func.h" />
