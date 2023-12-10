@@ -11,4 +11,5 @@ int cube();
 int findMax();
 bool isPositive();
 double power();
+int sumInRange();
 

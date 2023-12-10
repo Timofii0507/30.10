@@ -29,3 +29,7 @@ double power()
 {
 
 }
+int sumInRange()
+{
+
+}
