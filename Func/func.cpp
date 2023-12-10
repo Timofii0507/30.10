@@ -9,3 +9,7 @@ unsigned long long factorial()
 {
 
 }
+bool isPrime()
+{
+
+}

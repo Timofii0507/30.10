@@ -18,6 +18,9 @@
     <ClCompile Include="Main\lab2.cpp">
       <Filter>Main</Filter>
     </ClCompile>
+    <ClCompile Include="Main\lab3.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Func\func.h">
