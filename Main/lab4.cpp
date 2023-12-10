@@ -1,10 +1,12 @@
 #include "../Func/func.h"
 
-int cube(int number) {
+int cube(int number) 
+{
     return number * number * number;
 }
 
-int main() {
+int main() 
+{
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     int num;

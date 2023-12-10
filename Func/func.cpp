@@ -17,3 +17,7 @@ int cube()
 {
 
 }
+int findMax()
+{
+
+}
