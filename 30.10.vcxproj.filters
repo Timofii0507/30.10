@@ -42,6 +42,9 @@
     <ClCompile Include="Main\main4.cpp">
       <Filter>Main</Filter>
     </ClCompile>
+    <ClCompile Include="Main\main5.cpp">
+      <Filter>Main</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Func\func.h">

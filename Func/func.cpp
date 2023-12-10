@@ -41,3 +41,7 @@ void findPerfectNumbers()
 {
 
 }
+bool isHappyNumber()
+{
+
+}

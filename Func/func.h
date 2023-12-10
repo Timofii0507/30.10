@@ -14,4 +14,5 @@ double power();
 int sumInRange();
 bool isPerfectNumber();
 void findPerfectNumbers();
+bool isHappyNumber();
 
